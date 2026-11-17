@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Asma Sakli Gurgueb 👋
 
-<!--
-**asma-sakli/asma-sakli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Third-Year Embedded Systems Student at ISSAT Sousse, Tunisia.
 
-Here are some ideas to get you started:
+💻 Interested in Embedded Systems, Artificial Intelligence, IoT, Robotics and Electronics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills
+
+**Programming Languages**
+- C / C++
+- Python
+- Assembly
+
+**Embedded Systems & Hardware**
+- ESP32
+- STM32
+- Arduino
+- Raspberry Pi
+- Microcontrollers and Sensors
+
+**Software & Development Tools**
+- MATLAB
+- LabVIEW
+- Proteus (ISIS)
+- SolidWorks
+- Microsoft Office
+
+**Technical Areas**
+- Embedded Systems
+- Digital and Analog Electronics
+- IoT Applications
+- Signal Processing
+- Microprocessors
+- PCB Design
+- Artificial Intelligence – Fundamentals
+
+### 🚀 Academic Projects
+- Smart Plant Care System – ESP32
+- Embedded Vital Signs Monitoring Station
+- AI Voice-Controlled Autonomous Car
+- Smart Street Lighting System – STM32
+- Automatic Pet Feeder
+
+### 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/asma-sakli-gurgeub-b4210b383/)
+
+📫 Open to PFE opportunities, internships and technical learning experiences.
